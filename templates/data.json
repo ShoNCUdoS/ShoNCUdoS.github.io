@@ -132,6 +132,13 @@
     "width": 550,
     "height": 273
  },
+   "sg_Tia": {
+    "name": "sg_Tia.png",
+    "x": 1024,
+    "y": -1024,
+    "width": 3072,
+    "height": 3072 
+},   
     "sg_Luna_3": {
     "name": "sg_Luna_3.png",
     "x": 3005,
