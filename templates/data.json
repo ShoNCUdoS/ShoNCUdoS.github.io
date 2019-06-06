@@ -34,20 +34,6 @@
     "width": 88,
     "height": 78 
 },    
-  "sf": {
-    "name": "sf.png",
-    "x": -862,
-    "y": -492,
-    "width": 464,
-    "height": 259 
-},   
-   "hz3": {
-    "name": "hz3.png",
-    "x": -2312,
-    "y": 1112,
-    "width": 283,
-    "height": 220 
-},
   "fact": {
     "name": "fact.png",
     "x": 1969,
@@ -118,13 +104,6 @@
     "width": 440,
     "height": 384 
 },
-   "pp1": {
-    "name": "pp1.png",
-    "x": -3305,
-    "y": -3973,
-    "width": 267,
-    "height": 181
- },
    "2": {
     "name": "2.png",
     "x": 2274,
