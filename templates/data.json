@@ -1,4 +1,18 @@
 {
+   "flaty": {
+    "name": "flaty.png",
+    "x": -1404,
+    "y": -2385,
+    "width": 51,
+    "height": 50 
+},   
+   "fox": {
+    "name": "fox.png",
+    "x": 3005,
+    "y": -450,
+    "width": 164,
+    "height": 303 
+},   
    "dzhet": {
     "name": "dzhet.png",
     "x": -1281,
