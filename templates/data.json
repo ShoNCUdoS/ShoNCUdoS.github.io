@@ -20,8 +20,8 @@
     "width": 51,
     "height": 50 
 },   
-   "fox_tw3": {
-    "name": "fox_tw3.png",
+   "fox_tw_lbb": {
+    "name": "fox_tw_lbb.png",
     "x": 2993,
     "y": -448,
     "width": 278,
@@ -41,8 +41,8 @@
     "width": 594,
     "height": 273 
 },       
-   "ysnp_1": {
-    "name": "ysnp_1.png",
+   "ysnp_2": {
+    "name": "ysnp_2.png",
     "x": -2020,
     "y": -2144,
     "width": 88,
@@ -55,13 +55,20 @@
     "width": 306,
     "height": 328 
 },
-  "st11": {
-    "name": "st11.png",
-    "x": 3881,
-    "y": -572,
-    "width": 211,
-    "height": 192 
+  "st22": {
+    "name": "st22.png",
+    "x": 3843,
+    "y": -979,
+    "width": 253,
+    "height": 602 
 },
+  "derpy_ancap": {
+    "name": "derpy_ancap.png",
+    "x": 2461,
+    "y": -363,
+    "width": 360,
+    "height": 398 
+},  
   "pzc2": {
     "name": "pzc2.png",
     "x": 2274,
@@ -69,29 +76,29 @@
     "width": 201,
     "height": 132 
 },  
-  "mix3free2": {
-    "name": "mix3free2.png",
+  "mix3free3": {
+    "name": "mix3free3.png",
     "x": 3271,
     "y": -377,
     "width": 825,
     "height": 590 
 },
- "mix1oczone2": {
-    "name": "mix1oczone2.png",
+ "mix1oczone3": {
+    "name": "mix1oczone3.png",
     "x": 3300,
     "y": 1094,
     "width": 796,
     "height": 382 
 },
- "mix2mane2": {
-    "name": "mix2mane2.png",
+ "mix2mane3": {
+    "name": "mix2mane3.png",
     "x": 3271,
     "y": 213,
     "width": 825,
     "height": 881 
 }, 
- "Pink_Cel_RF_1": {
-    "name": "Pink_Cel_RF_1.png",
+ "Pink_Cel_RF_2": {
+    "name": "Pink_Cel_RF_2.png",
     "x": 2638,
     "y": -705,
     "width": 828,
@@ -118,8 +125,8 @@
     "width": 1026,
     "height": 725
  },
-    "faustzone2": {
-    "name": "faustzone2.png",
+    "faustzone3": {
+    "name": "faustzone3.png",
     "x": 2825,
     "y": 821,
     "width": 2230,
