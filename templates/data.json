@@ -1,10 +1,10 @@
 {
-   "World": {
-    "name": "World.png",
-    "x": -270,
-    "y": 1731,
-    "width": 1357,
-    "height": 629 
+   "World_2": {
+    "name": "World_2.png",
+    "x": -273,
+    "y": 1728,
+    "width": 1363,
+    "height": 635 
 },   
   "fact2": {
     "name": "fact2.png",
