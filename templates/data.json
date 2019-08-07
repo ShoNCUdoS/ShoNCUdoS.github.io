@@ -69,11 +69,11 @@
     "width": 2230,
     "height": 1365
  },
-    "hangout6": {
-    "name": "hangout6.png",
-    "x": 2275,
+    "hangout7": {
+    "name": "hangout7.png",
+    "x": 2274,
     "y": 821,
-    "width": 550,
+    "width": 551,
     "height": 273
  },
    "sg_Tia_4": {
@@ -103,5 +103,12 @@
     "y": 3020,
     "width": 140,
     "height": 117
- }  
+ },  
+    "pzc_v2": {
+    "name": "pzc_v2.png",
+    "x": 1615,
+    "y": 821,
+    "width": 659,
+    "height": 274
+ }     
 }
