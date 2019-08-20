@@ -1,4 +1,11 @@
 {
+   "FoE2_7": {
+    "name": "FoE2_7.png",
+    "x": -2643,
+    "y": -3013,
+    "width": 3587,
+    "height": 1932 
+},   
    "ss": {
     "name": "ss.png",
     "x": 729,
@@ -41,13 +48,6 @@
     "width": 825,
     "height": 1059 
 }, 
-   "FoE2_6": {
-    "name": "FoE2_6.png",
-    "x": -2643,
-    "y": -3013,
-    "width": 3587,
-    "height": 1932 
-},   
    "aaj2": {
     "name": "aaj2.png",
     "x": 701,
