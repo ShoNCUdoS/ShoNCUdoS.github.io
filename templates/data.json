@@ -1,6 +1,6 @@
 {
-   "FoE2_9": {
-    "name": "FoE2_9.png",
+   "FoE2_10": {
+    "name": "FoE2_10.png",
     "x": -2643,
     "y": -3013,
     "width": 3587,
@@ -27,22 +27,22 @@
     "width": 306,
     "height": 328 
 },
-  "mix3free6": {
-    "name": "mix3free6.png",
+  "top_10": {
+    "name": "top_10.png",
     "x": 1881,
     "y": -1101,
     "width": 2215,
     "height": 1136 
 },
- "mix1oczone6": {
-    "name": "mix1oczone6.png",
+ "niz_10": {
+    "name": "niz_10.png",
     "x": 3300,
     "y": 1094,
     "width": 796,
     "height": 382 
 },
- "mix2mane6": {
-    "name": "mix2mane6.png",
+ "mid_10": {
+    "name": "mid_10.png",
     "x": 3271,
     "y": 35,
     "width": 825,
@@ -62,8 +62,8 @@
     "width": 1026,
     "height": 725
  },
-    "faustzone3": {
-    "name": "faustzone3.png",
+    "faustzone_10": {
+    "name": "faustzone_10.png",
     "x": 2825,
     "y": 821,
     "width": 2230,
