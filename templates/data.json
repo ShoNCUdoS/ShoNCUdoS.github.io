@@ -27,22 +27,22 @@
     "width": 306,
     "height": 328 
 },
-  "top": {
-    "name": "top.png",
+  "top_1": {
+    "name": "top_1.png",
     "x": 1881,
     "y": -1101,
     "width": 2215,
     "height": 1136 
 },
- "niz_10": {
-    "name": "niz_10.png",
+ "niz_1": {
+    "name": "niz_1.png",
     "x": 3300,
     "y": 1094,
     "width": 796,
     "height": 382 
 },
- "mid_10": {
-    "name": "mid_10.png",
+ "mid_1": {
+    "name": "mid_1.png",
     "x": 3271,
     "y": 35,
     "width": 825,
