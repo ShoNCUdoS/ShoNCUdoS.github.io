@@ -1,6 +1,6 @@
 {
-   "FoE2_10": {
-    "name": "FoE2_10.png",
+   "FoE2_5": {
+    "name": "FoE2_5.png",
     "x": -2643,
     "y": -3013,
     "width": 3587,
@@ -27,22 +27,22 @@
     "width": 306,
     "height": 328 
 },
-  "top_1": {
-    "name": "top_1.png",
+  "top_5": {
+    "name": "top_5.png",
     "x": 1881,
     "y": -1101,
     "width": 2215,
     "height": 1136 
 },
- "niz_1": {
-    "name": "niz_1.png",
+ "niz_5": {
+    "name": "niz_5.png",
     "x": 3300,
     "y": 1094,
     "width": 796,
     "height": 382 
 },
- "mid_1": {
-    "name": "mid_1.png",
+ "mid_5": {
+    "name": "mid_5.png",
     "x": 3271,
     "y": 35,
     "width": 825,
