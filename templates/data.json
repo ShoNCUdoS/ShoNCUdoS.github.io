@@ -76,20 +76,27 @@
     "width": 551,
     "height": 273
  },
-   "sg_Tia_4": {
-    "name": "sg_Tia_4.png",
+   "sg_Tia_5": {
+    "name": "sg_Tia_5.png",
     "x": 1615,
     "y": 35,
     "width": 267,
     "height": 786 
 },   
-    "sg_Luna_4": {
-    "name": "sg_Luna_4.png",
+    "sg_Luna_5": {
+    "name": "sg_Luna_5.png",
     "x": 3005,
     "y": 35,
     "width": 266,
     "height": 786
- },   
+ },
+    "sg_ManeSix_5": {
+    "name": "sg_ManeSix_5.png",
+    "x": 1881,
+    "y": 237,
+    "width": 1123,
+    "height": 584
+ },  
     "azrm": {
     "name": "azrm.png",
     "x": 1719,
