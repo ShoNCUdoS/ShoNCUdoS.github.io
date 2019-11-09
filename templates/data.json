@@ -62,20 +62,6 @@
     "width": 3623,
     "height": 1932 
 },   
-   "ss": {
-    "name": "ss.png",
-    "x": 729,
-    "y": -3430,
-    "width": 510,
-    "height": 248 
-},  
-   "World_2": {
-    "name": "World_2.png",
-    "x": -273,
-    "y": 1728,
-    "width": 1363,
-    "height": 635 
-},   
   "fact2": {
     "name": "fact2.png",
     "x": 1968,
@@ -104,13 +90,6 @@
     "width": 825,
     "height": 1059 
 }, 
-   "aaj2": {
-    "name": "aaj2.png",
-    "x": 701,
-    "y": -224,
-    "width": 440,
-    "height": 384 
-},
    "FoE": {
     "name": "FoE.png",
     "x": 2274,
@@ -152,33 +131,5 @@
     "y": 237,
     "width": 1123,
     "height": 584
- },  
-    "azrm": {
-    "name": "azrm.png",
-    "x": 1719,
-    "y": 1400,
-    "width": 100,
-    "height": 114
- },
-    "eoi": {
-    "name": "eoi.png",
-    "x": 821,
-    "y": 3020,
-    "width": 140,
-    "height": 117
- },  
-    "pzc_6": {
-    "name": "pzc_6.png",
-    "x": 1615,
-    "y": 821,
-    "width": 659,
-    "height": 274
- },
-    "flag_6": {
-    "name": "flag_6.png",
-    "x": 1971,
-    "y": 1489,
-    "width": 303,
-    "height": 214
  }
 }
