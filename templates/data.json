@@ -6,6 +6,27 @@
     "width": 473,
     "height": 377 
 },
+    "sombra": {
+    "name": "sombra.png",
+    "x": 3952,
+    "y": -2888,
+    "width": 88,
+    "height": 82 
+},
+    "cats": {
+    "name": "cats.png",
+    "x": 2570,
+    "y": -2801,
+    "width": 358,
+    "height": 244 
+},
+    "car": {
+    "name": "car.png",
+    "x": -2212,
+    "y": 231,
+    "width": 360,
+    "height": 200 
+},
    "ff": {
     "name": "ff.png",
     "x": -2373,
@@ -20,8 +41,8 @@
     "width": 170,
     "height": 286 
 }, 
-   "FoE2_99": {
-    "name": "FoE2_99.png",
+   "FoE2_10": {
+    "name": "FoE2_10.png",
     "x": -2643,
     "y": -3013,
     "width": 3623,
@@ -48,22 +69,22 @@
     "width": 306,
     "height": 328 
 },
-  "top_9": {
-    "name": "top_9.png",
+  "top_10": {
+    "name": "top_10.png",
     "x": 1881,
     "y": -1101,
     "width": 2215,
     "height": 1136 
 },
- "niz_9": {
-    "name": "niz_9.png",
+ "niz_10": {
+    "name": "niz_10.png",
     "x": 3300,
     "y": 1094,
     "width": 796,
     "height": 725 
 },
- "mid_99": {
-    "name": "mid_99.png",
+ "mid_10": {
+    "name": "mid_10.png",
     "x": 3271,
     "y": 35,
     "width": 825,
