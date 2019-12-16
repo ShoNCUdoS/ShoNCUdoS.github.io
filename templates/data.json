@@ -41,11 +41,11 @@
     "width": 170,
     "height": 286 
 }, 
-   "FoE2_10": {
-    "name": "FoE2_10.png",
-    "x": -2643,
+   "FoE2_11": {
+    "name": "FoE2_11.png",
+    "x": -2746,
     "y": -3013,
-    "width": 3623,
+    "width": 3726,
     "height": 1932 
 },
    "ss": {
@@ -69,22 +69,22 @@
     "width": 306,
     "height": 328 
 },
-  "top12": {
-    "name": "top12.png",
+  "top_11": {
+    "name": "top_11.png",
     "x": 1881,
-    "y": -1101,
+    "y": -1498,
     "width": 2215,
-    "height": 1136 
+    "height": 1533 
 },
- "niz_10": {
-    "name": "niz_10.png",
+ "niz_11": {
+    "name": "niz_11.png",
     "x": 3300,
     "y": 1094,
     "width": 796,
     "height": 725 
 },
- "mid_10": {
-    "name": "mid_10.png",
+ "mid_11": {
+    "name": "mid_11.png",
     "x": 3271,
     "y": 35,
     "width": 825,
@@ -132,12 +132,12 @@
     "width": 266,
     "height": 786
  },
-    "sg_ManeSix_5": {
-    "name": "sg_ManeSix_5.png",
+    "sg_ManeSix_11": {
+    "name": "sg_ManeSix_11.png",
     "x": 1882,
-    "y": 237,
+    "y": 35,
     "width": 1123,
-    "height": 584
+    "height": 786
  },
     "azrm": {
     "name": "azrm.png",
