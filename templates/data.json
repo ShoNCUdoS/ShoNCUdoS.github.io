@@ -41,8 +41,8 @@
     "width": 170,
     "height": 286 
 }, 
-   "FoE2_11": {
-    "name": "FoE2_11.png",
+   "FoE2_12": {
+    "name": "FoE2_12.png",
     "x": -2746,
     "y": -3013,
     "width": 3726,
@@ -69,22 +69,22 @@
     "width": 306,
     "height": 328 
 },
-  "top_11": {
-    "name": "top_11.png",
+  "top_12": {
+    "name": "top_12.png",
     "x": 1881,
     "y": -1498,
     "width": 2215,
     "height": 1533 
 },
- "niz_11": {
-    "name": "niz_11.png",
+ "niz_12": {
+    "name": "niz_12.png",
     "x": 3300,
     "y": 1094,
     "width": 796,
     "height": 725 
 },
- "mid_11": {
-    "name": "mid_11.png",
+ "mid_12": {
+    "name": "mid_12.png",
     "x": 3271,
     "y": 35,
     "width": 825,
