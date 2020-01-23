@@ -185,14 +185,14 @@
     "name": "bj.png",
     "x": 3456,
     "y": -3461,
-    "width": 1123,
-    "height": 202 
+    "width": 640,
+    "height": 518 
  },
     "oczone2": {
     "name": "oczone2.png",
     "x": 1971,
     "y": 1819,
-    "width": 640,
-    "height": 518 
+    "width": 1457,
+    "height": 140 
  }
 }
