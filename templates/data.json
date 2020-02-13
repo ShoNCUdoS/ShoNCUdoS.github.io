@@ -1,11 +1,4 @@
 {
-"Pinkie": {
-    "name": "Pinkie.png",
-    "x": 1232,
-    "y": 2042,
-    "width": 90,
-    "height": 90 
-},    
 "mp": {
     "name": "mp.png",
     "x": 3615,
@@ -194,5 +187,12 @@
     "y": 1819,
     "width": 1457,
     "height": 140 
- }
+ },
+    "Pinkie": {
+    "name": "Pinkie.png",
+    "x": 1232,
+    "y": 2042,
+    "width": 90,
+    "height": 90 
+ }   
 }
