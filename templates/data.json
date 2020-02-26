@@ -1,4 +1,11 @@
 {
+"ssr": {
+    "name": "ssr.png",
+    "x": -4072,
+    "y": -300,
+    "width": 600,
+    "height": 414 
+},
 "repony": {
     "name": "repony.png",
     "x": -4073,
