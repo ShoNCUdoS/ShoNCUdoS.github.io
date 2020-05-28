@@ -1,4 +1,11 @@
 {
+"Trix": { 
+"name": "Trix.png", 
+    "x": -22124, 
+    "y": -630, 
+    "width": 900, 
+    "height": 807 
+},
 "ssr": {
     "name": "ssr.png",
     "x": -4072,
