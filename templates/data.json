@@ -1,4 +1,11 @@
 {
+ "centr": {
+    "name": "centr.png",
+    "x": -1006,
+    "y": -646,
+    "width": 1068,
+    "height": 742 
+},
 "ssr": {
     "name": "ssr.png",
     "x": -4072,
