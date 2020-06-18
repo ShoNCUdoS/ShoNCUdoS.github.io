@@ -6,6 +6,13 @@
     "width": 1068,
     "height": 742 
 },
+ "EZ": {
+    "name": "EZ.png",
+    "x": 1749,
+    "y": 1218,
+    "width": 181,
+    "height": 177 
+}, 
 "ssr": {
     "name": "ssr.png",
     "x": -4072,
