@@ -1,5 +1,12 @@
 {
- "EZ": {
+"mane": {
+    "name": "mane.png",
+    "x": 1614,
+    "y": -1499,
+    "width": 2481,
+    "height": 3457 
+},
+"EZ": {
     "name": "EZ.png",
     "x": 1749,
     "y": 1218,
@@ -83,34 +90,6 @@
     "width": 1363,
     "height": 635 
 },   
-  "fact": {
-    "name": "fact.png",
-    "x": 1968,
-    "y": 1161,
-    "width": 306,
-    "height": 328 
-},
-  "top": {
-    "name": "top.png",
-    "x": 1881,
-    "y": -1498,
-    "width": 2215,
-    "height": 1533 
-},
- "niz": {
-    "name": "niz.png",
-    "x": 3300,
-    "y": 1094,
-    "width": 796,
-    "height": 725 
-},
- "mid": {
-    "name": "mid.png",
-    "x": 3271,
-    "y": 35,
-    "width": 825,
-    "height": 1059 
-},
    "AAAA": {
     "name": "AAAA.png",
     "x": 701,
@@ -118,48 +97,6 @@
     "width": 439,
     "height": 471 
 },
-   "FoE": {
-    "name": "FoE.png",
-    "x": 2274,
-    "y": 1094,
-    "width": 1026,
-    "height": 725
- },
-    "faustzone": {
-    "name": "faustzone.png",
-    "x": 2825,
-    "y": 821,
-    "width": 446,
-    "height": 273
- },
-    "hangout7": {
-    "name": "hangout7.png",
-    "x": 2274,
-    "y": 821,
-    "width": 551,
-    "height": 273
- },
-   "sg_Tia_5": {
-    "name": "sg_Tia_5.png",
-    "x": 1615,
-    "y": 35,
-    "width": 267,
-    "height": 786 
-},   
-    "sg_Luna_5": {
-    "name": "sg_Luna_5.png",
-    "x": 3005,
-    "y": 35,
-    "width": 266,
-    "height": 786
- },
-    "sg_ManeSix_12": {
-    "name": "sg_ManeSix_12.png",
-    "x": 1882,
-    "y": 237,
-    "width": 1123,
-    "height": 584
- },
     "azrm": {
     "name": "azrm.png",
     "x": 1719,
@@ -174,40 +111,12 @@
     "width": 140,
     "height": 117
  },  
-    "pzc_6": {
-    "name": "pzc_6.png",
-    "x": 1615,
-    "y": 821,
-    "width": 659,
-    "height": 274
- },
-    "flag": {
-    "name": "flag.png",
-    "x": 1971,
-    "y": 1489,
-    "width": 303,
-    "height": 330
- }, 
-    "nya": {
-    "name": "nya.png",
-    "x": 1882,
-    "y": 35,
-    "width": 1123,
-    "height": 202 
- },
     "bj": {
     "name": "bj.png",
     "x": 3456,
     "y": -3461,
     "width": 640,
     "height": 518 
- },
-    "oczone2": {
-    "name": "oczone2.png",
-    "x": 1971,
-    "y": 1819,
-    "width": 1457,
-    "height": 140 
  },
     "Pinkie": {
     "name": "Pinkie.png",
