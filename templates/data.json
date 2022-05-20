@@ -6,6 +6,13 @@
     "width": 2482,
     "height": 3458 
 },
+  "aaj2": {
+    "name": "aaj2.png",
+    "x": 701,
+    "y": -224,
+    "width": 440,
+    "height": 384 
+},
 "EZ": {
     "name": "EZ.png",
     "x": 1749,
@@ -90,13 +97,6 @@
     "width": 1363,
     "height": 635 
 },   
-   "AAAA": {
-    "name": "AAAA.png",
-    "x": 701,
-    "y": -222,
-    "width": 439,
-    "height": 471 
-},
     "azrm": {
     "name": "azrm.png",
     "x": 1719,
